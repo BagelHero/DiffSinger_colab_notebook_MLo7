@@ -1,7 +1,7 @@
 ### Custom Local Training GUI is moved to [DiffTrainer](https://github.com/agentasteriski/DiffTrainer)
 
 ___
-## DiffSinger training notebook: <a href="https://colab.research.google.com/github/MLo7Ghinsan/DiffSinger_colab_notebook_MLo7/blob/main/DiffSinger_colab_notebook.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="width: 150px;"/> </a>
+## DiffSinger training notebook:  [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="width: 150px;"/> ](https://colab.research.google.com/github/BagelHero/DiffSinger_colab_notebook_MLo7/blob/main/DiffSinger_colab_notebook.ipynb)
 
 ### current supported data format:
 - lab + wav (NNSVS format)
